@@ -1,0 +1,408 @@
+﻿begindelays
+DataDelay=0
+CellDelay=0.2
+FormDelay=0.25
+KeyHold=50
+SystemHold=50
+HourGlass=250
+CWTimeout=10
+BrowserTimeout=10
+FieldTimeout=10
+TAB=0
+ENT=0
+*UP=0
+*DN=0
+*LT=0
+*RT=0
+*SP=0
+*SAVE=0
+*NB=0
+*PB=0
+*NF=0
+*PF=0
+*NR=0
+*PR=0
+*FR=0
+*LR=0
+*ER=0
+*DR=0
+*SB=0
+*ST=0
+*BM=0
+*QE=0
+*QR=0
+*FI=0
+*FA=0
+*IR=0
+*CL=0
+*FE=0
+*AA=0
+*AB=0
+*AC=0
+*AD=0
+*AE=0
+*AF=0
+*AG=0
+*AH=0
+*AI=0
+*AJ=0
+*AK=0
+*AL=0
+*AM=0
+*AN=0
+*AO=0
+*AP=0
+*AQ=0
+*AR=0
+*AS=0
+*AT=0
+*AU=0
+*AV=0
+*AW=0
+*AX=0
+*AY=0
+*AZ=0
+enddelays
+beginheader
+Data	tab	Data	TAB	TAB	TAB	TAB	*SB	TAB	TAB	TAB	Data	TAB	Data	TAB	Data	TAB	Data	TAB	Data	TAB	*SB	TAB	Data	Ent																																																																																																				
+
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+endheader
+beginother
+Window=Oracle Applications - Vision 12.2.9
+Description=
+CommandGroup=Oracle EBS R12 / 11i
+endother
+begindata
+100000	tab	Assets	TAB	TAB	TAB	TAB	*SB	TAB	TAB	TAB	n	TAB	n	TAB	Asset	TAB	n	TAB	n	TAB	*SB	TAB		Ent
+110000	tab	Fixed Assets	TAB	TAB	TAB	TAB	*SB	TAB	TAB	TAB	n	TAB	n	TAB	Asset	TAB	n	TAB	n	TAB	*SB	TAB		Ent
+110100	tab	Furniture	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Asset	TAB	n	TAB	n	TAB	*SB	TAB		Ent
+110200	tab	Machinery	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Asset	TAB	n	TAB	n	TAB	*SB	TAB		Ent
+110300	tab	Transportation and Distribution Equipment	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Asset	TAB	n	TAB	n	TAB	*SB	TAB		Ent
+110400	tab	Computers and Technical Equipment	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Asset	TAB	n	TAB	n	TAB	*SB	TAB		Ent
+110500	tab	Air Conditioning and Cooling Systems	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Asset	TAB	n	TAB	n	TAB	*SB	TAB		Ent
+120000	tab	Current Assets	TAB	TAB	TAB	TAB	*SB	TAB	TAB	TAB	n	TAB	n	TAB	Asset	TAB	n	TAB	n	TAB	*SB	TAB		Ent
+120100	tab	Cash on Hand	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Asset	TAB	n	TAB	n	TAB	*SB	TAB		Ent
+120200	tab	Cash in Treasury	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Asset	TAB	n	TAB	n	TAB	*SB	TAB		Ent
+120300	tab	Bank	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Asset	TAB	n	TAB	n	TAB	*SB	TAB		Ent
+120400	tab	Accounts Receivable	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Asset	TAB	n	TAB	n	TAB	*SB	TAB		Ent
+120500	tab	ntes Receivable	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Asset	TAB	n	TAB	n	TAB	*SB	TAB		Ent
+120600	tab	Purchase Price Variance	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Asset	TAB	n	TAB	n	TAB	*SB	TAB		Ent
+120700	tab	Invoice Price Variance	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Asset	TAB	n	TAB	n	TAB	*SB	TAB		Ent
+120800	tab	Prepaid Payments	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Asset	TAB	n	TAB	n	TAB	*SB	TAB		Ent
+120900	tab	Inventory	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Asset	TAB	n	TAB	n	TAB	*SB	TAB		Ent
+200000	tab	Liabilities	TAB	TAB	TAB	TAB	*SB	TAB	TAB	TAB	n	TAB	n	TAB	Liability	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+210000	tab	Current Liabilities	TAB	TAB	TAB	TAB	*SB	TAB	TAB	TAB	n	TAB	n	TAB	Liability	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+210100	tab	Accounts Payable	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Liability	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+210200	tab	Suppliers	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Liability	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+210300	tab	Accrued Payables	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Liability	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+210400	tab	Accrued Expenses	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Liability	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+210500	tab	Taxes	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Liability	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+220000	tab	Long-Term Liabilities	TAB	TAB	TAB	TAB	*SB	TAB	TAB	TAB	n	TAB	n	TAB	Liability	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+220100	tab	Long-Term Loans	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Liability	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+220200	tab	Provisions for Liabilities	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Liability	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+300000	tab	Expenses	TAB	TAB	TAB	TAB	*SB	TAB	TAB	TAB	n	TAB	n	TAB	Expense	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+310000	tab	Operating Expenses	TAB	TAB	TAB	TAB	*SB	TAB	TAB	TAB	n	TAB	n	TAB	Expense	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+310100	tab	Cost of Goods Sold	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Expense	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+310200	tab	Services	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Expense	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+320000	tab	General and Administrative Expenses	TAB	TAB	TAB	TAB	*SB	TAB	TAB	TAB	n	TAB	n	TAB	Expense	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+320100	tab	Rent	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Expense	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+320200	tab	Electricity	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Expense	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+320300	tab	Telephone	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Expense	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+320400	tab	Internet and Communication Expenses	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Expense	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+320500	tab	Shipping Expenses	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Expense	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+320600	tab	Bank Fees	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Expense	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+320700	tab	Advertising and Marketing Expenses	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Expense	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+320800	tab	Maintenance Expenses	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Expense	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+320900	tab	Salaries and Wages	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Expense	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+400000	tab	Revenue	TAB	TAB	TAB	TAB	*SB	TAB	TAB	TAB	n	TAB	n	TAB	Revenue	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+410000	tab	Sales Revenue	TAB	TAB	TAB	TAB	*SB	TAB	TAB	TAB	n	TAB	n	TAB	Revenue	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+410100	tab	Sales	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Revenue	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+420000	tab	Other Revenues	TAB	TAB	TAB	TAB	*SB	TAB	TAB	TAB	n	TAB	n	TAB	Revenue	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+420100	tab	Interest Income	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Revenue	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+420200	tab	Other Profits/Losses	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Revenue	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+420300	tab	Earned Discounts	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Revenue	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+420400	tab	Purchase Order Price Variance	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Revenue	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+420500	tab	Miscellaneous Revenue	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Revenue	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+420600	tab	Revenue from Maintenance and Repair Services	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Revenue	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+420700	tab	Revenue from Installation Services	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Revenue	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+420800	tab	Revenue from Extended Warranty Services	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Revenue	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+420900	tab	Foreign Exchange Gains	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Revenue	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+500000	tab	Equity	TAB	TAB	TAB	TAB	*SB	TAB	TAB	TAB	n	TAB	n	TAB	Ownership	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+510000	tab	Capital	TAB	TAB	TAB	TAB	*SB	TAB	TAB	TAB	n	TAB	n	TAB	Ownership	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+510100	tab	Owner’s Capital	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Ownership	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+510200	tab	Common Stock	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Ownership	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+510300	tab	Preferred Stock	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Ownership	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+510400	tab	Retained Earnings	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Ownership	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+520000	tab	Reserves	TAB	TAB	TAB	TAB	*SB	TAB	TAB	TAB	n	TAB	n	TAB	Ownership	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+520100	tab	Legal Reserve	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Ownership	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+520200	tab	General Reserve	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Ownership	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+520300	tab	Emergency Reserve	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Ownership	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+520400	tab	Expansion and Investment Reserve	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Ownership	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+520500	tab	Asset Impairment Reserve	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Ownership	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+520600	tab	Tax Settlement Reserve	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Ownership	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+520700	tab	Hedging Reserve	TAB	TAB	TAB	TAB			TAB	TAB	y	TAB	y	TAB	Ownership	TAB	n	TAB	n	TAB	*SB	TAB		ENT
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+enddata
+beginoptions
+AutoTab=false
+HourGlass=false
+AutoInsert=true
+ProgressBar=true
+TitleSize=false
+DataColour=16777215
+CommandColour=16777215
+KeystrokeColour=16777215
+DataSource=0
+ImportLoad=0
+EnableMacro=1
+DatePicker=1
+LegacyKeyMode=0
+IEOnly=0
+StopIfNotIE=0
+LoadControl=0
+UseBC=0
+SkipBlank=1
+Protection=￶�￶�￮￥￮￥￦￭￦￭￮￥￮￥￶�￶�ￎￅￎￅￆￍￆￍￎￅￎￅ￶�￶�￮￥￮￥￦￭￦￭￮￥￮￥￶�￶�%CR%%CR%v}v}nenefmfmnenev}v}NE
+PasteCtrlV=1
+PasteLoad=1
+CellComment=
+endoptions
+beginformat
+FontName=Default
+FontSize=8
+endformat
+begincommands
+Command	Oracle Cloud Apps	Oracle EBS R12 / 11i	Oracle EBS 11.0 / 10.7	Oracle EBS 10.7SC	Siebel	SAP	Peoplesoft	JDE	Dynamics	Other	Description
+TAB	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	TAB key
+ENT	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	Enter key
+*UP	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	Up arrow key
+*DN	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	Down arrow key
+*LT	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	Left arrow key
+*RT	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	Right arrow key
+*SP		\%F%V	\%A%{DOWN 4}{ENTER}	\%A%A							Save & proceed
+*SAVE		\^S	\^S	\{F10}							Save
+*NB		\+{PGDN}	\+{PGDN}	\^{PGDN}							Next Block
+*PB		\+{PGUP}	\+{PGUP}	\^{PGUP}							Previous Block
+*NF	\{TAB}	\{TAB}	\%G%{DOWN}{ENTER}	\{TAB}							Next Field
+*PF	\+{TAB}	\+{TAB}	\%G%{DOWN 2}{ENTER}	\+{TAB}							Previous Field
+*NR	\{DOWN}	\{DOWN}	\%G%{DOWN 3}{ENTER}	\+{DOWN}							Next record
+*PR	\{UP}	\{UP}	\%G%{DOWN 4}{ENTER}	\+{UP}							Previous record
+*FR		\%V%DF	\%G%{DOWN 5}{ENTER}	\%G%F							First record
+*LR		\%V%DL	\%G%{DOWN 6}{ENTER}	\%G%L							Last record
+*ER		\{F6}	\{F6}	\+{F4}							Erase record
+*DR		\^{UP}	\^{UP}	\+{F6}							Delete record
+*SB	\ 	\ 	\ 	\ 	\ 	\ 	\ 	\ 	\ 	\ 	Space bar
+*ST	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	Select field text
+*BM		\^B	\^B	\{F5}							Block menu
+*QE		\{F11}	\{F11}	\{F7}							Query enter
+*QR		\^{F11}	\^{F11}	\{F8}							Query run
+*FI		\%V%F	\%Q%{DOWN}{ENTER}								Find
+*FA		\%V%I	\%Q%{DOWN 2}{ENTER}								Find all
+*IR		\^{DOWN}	\^{DOWN}	\{F6}							Insert record
+*CL		\{F5}	\{F5}	\^U							Clear field
+*FE		\^E	\^E	\^E							Field edit
+*AA	\%A	\%A	\%A	\%A	\%A	\%A	\%A	\%A	\%A	\%A	Alt A
+*AB	\%B	\%B	\%B	\%B	\%B	\%B	\%B	\%B	\%B	\%B	Alt B
+*AC	\%C	\%C	\%C	\%C	\%C	\%C	\%C	\%C	\%C	\%C	Alt C
+*AD	\%D	\%D	\%D	\%D	\%D	\%D	\%D	\%D	\%D	\%D	Alt D
+*AE	\%E	\%E	\%E	\%E	\%E	\%E	\%E	\%E	\%E	\%E	Alt E
+*AF	\%F	\%F	\%F	\%F	\%F	\%F	\%F	\%F	\%F	\%F	Alt F
+*AG	\%G	\%G	\%G	\%G	\%G	\%G	\%G	\%G	\%G	\%G	Alt G
+*AH	\%H	\%H	\%H	\%H	\%H	\%H	\%H	\%H	\%H	\%H	Alt H
+*AI	\%I	\%I	\%I	\%I	\%I	\%I	\%I	\%I	\%I	\%I	Alt I
+*AJ	\%J	\%J	\%J	\%J	\%J	\%J	\%J	\%J	\%J	\%J	Alt J
+*AK	\%K	\%K	\%K	\%K	\%K	\%K	\%K	\%K	\%K	\%K	Alt K
+*AL	\%L	\%L	\%L	\%L	\%L	\%L	\%L	\%L	\%L	\%L	Alt L
+*AM	\%M	\%M	\%M	\%M	\%M	\%M	\%M	\%M	\%M	\%M	Alt M
+*AN	\%N	\%N	\%N	\%N	\%N	\%N	\%N	\%N	\%N	\%N	Alt N
+*AO	\%O	\%O	\%O	\%O	\%O	\%O	\%O	\%O	\%O	\%O	Alt O
+*AP	\%P	\%P	\%P	\%P	\%P	\%P	\%P	\%P	\%P	\%P	Alt P
+*AQ	\%Q	\%Q	\%Q	\%Q	\%Q	\%Q	\%Q	\%Q	\%Q	\%Q	Alt Q
+*AR	\%R	\%R	\%R	\%R	\%R	\%R	\%R	\%R	\%R	\%R	Alt R
+*AS	\%S	\%S	\%S	\%S	\%S	\%S	\%S	\%S	\%S	\%S	Alt S
+*AT	\%T	\%T	\%T	\%T	\%T	\%T	\%T	\%T	\%T	\%T	Alt T
+*AU	\%U	\%U	\%U	\%U	\%U	\%U	\%U	\%U	\%U	\%U	Alt U
+*AV	\%V	\%V	\%V	\%V	\%V	\%V	\%V	\%V	\%V	\%V	Alt V
+*AW	\%W	\%W	\%W	\%W	\%W	\%W	\%W	\%W	\%W	\%W	Alt W
+*AX	\%X	\%X	\%X	\%X	\%X	\%X	\%X	\%X	\%X	\%X	Alt X
+*AY	\%Y	\%Y	\%Y	\%Y	\%Y	\%Y	\%Y	\%Y	\%Y	\%Y	Alt Y
+*AZ	\%Z	\%Z	\%Z	\%Z	\%Z	\%Z	\%Z	\%Z	\%Z	\%Z	Alt Z
+endcommands
+beginhdrgrid
+																																																																																																			
+
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+begindata
+enddata
+endhdrgrid
+beginftrgrid
+																																																																																																		
+
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+begindata
+enddata
+endftrgrid
